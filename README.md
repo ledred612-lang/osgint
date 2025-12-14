@@ -21,7 +21,7 @@ pip3 install -r requirements.txt
 ```
 $ python3 osgint.py -h                                  
 
- .d88888b.                    d8b          888    
+ .d88888b.                    d8b           888    
 d88P" "Y88b                   Y8P          888    
 888     888                                888    
 888     888 .d8888b   .d88b.  888 88888b.  888888 
